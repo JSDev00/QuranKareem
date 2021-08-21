@@ -1,0 +1,25 @@
+body{
+  font-size:20px;
+  text-align:center;
+  overflow:hidden
+}
+.bg-all{
+  background-color:#2c3e50;
+  color:#f1c40f
+}
+.scroll{
+  height:100%;
+  overflow:auto
+}
+.cursor{
+  cursor:pointer;
+}
+.active{
+  color:#f1c40f !important;
+}
+hr{
+  background:#f1c40f
+}
+.reads{
+  font-size: 20px;
+}
